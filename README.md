@@ -1,4 +1,4 @@
-<p align="center"><img src="" width=1000></p>
+<p align="center"><img src="etchkay.png" width=1000></p>
 
 # EtchKay
 
